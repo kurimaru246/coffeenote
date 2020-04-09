@@ -1,0 +1,213 @@
+2019-07-04T04:15:43.6NZ mysqld_safe Logging to '/Applications/MAMP/logs/mysql_error_log.err'.
+2019-07-04T04:15:43.6NZ mysqld_safe Starting mysqld daemon with databases from /Applications/MAMP/db/mysql57
+2019-07-04T04:15:44.019291Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2019-07-04T04:15:44.019537Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2019-07-04T04:15:44.019607Z 0 [Note] /Applications/MAMP/Library/bin/mysqld (mysqld 5.7.25) starting as process 12776 ...
+2019-07-04T04:15:44.024805Z 0 [Warning] Setting lower_case_table_names=2 because file system for /Applications/MAMP/db/mysql57/ is case insensitive
+2019-07-04T04:15:44.026912Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-07-04T04:15:44.026935Z 0 [Note] InnoDB: Uses event mutexes
+2019-07-04T04:15:44.026943Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2019-07-04T04:15:44.026949Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-07-04T04:15:44.027233Z 0 [Note] InnoDB: Number of pools: 1
+2019-07-04T04:15:44.027354Z 0 [Note] InnoDB: Using CPU crc32 instructions
+2019-07-04T04:15:44.028599Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-07-04T04:15:44.036746Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-07-04T04:15:44.054065Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-07-04T04:15:44.099834Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-07-04T04:15:44.100831Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-07-04T04:15:44.108293Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-07-04T04:15:44.108991Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2019-07-04T04:15:44.109017Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2019-07-04T04:15:44.109311Z 0 [Note] InnoDB: Waiting for purge to start
+2019-07-04T04:15:44.162743Z 0 [Note] InnoDB: 5.7.25 started; log sequence number 3156693
+2019-07-04T04:15:44.162877Z 0 [Note] InnoDB: Loading buffer pool(s) from /Applications/MAMP/db/mysql57/ib_buffer_pool
+2019-07-04T04:15:44.163018Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2019-07-04T04:15:44.168232Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T04:15:44.168270Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T04:15:44.170720Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2019-07-04T04:15:44.170739Z 0 [Note] Server hostname (bind-address): '*'; port: 8889
+2019-07-04T04:15:44.170945Z 0 [Note] IPv6 is available.
+2019-07-04T04:15:44.170967Z 0 [Note]   - '::' resolves to '::';
+2019-07-04T04:15:44.171021Z 0 [Note] Server socket created on IP: '::'.
+2019-07-04T04:15:44.176754Z 0 [Note] InnoDB: Buffer pool(s) load completed at 190704 13:15:44
+2019-07-04T04:15:44.218395Z 0 [Note] Event Scheduler: Loaded 0 events
+2019-07-04T04:15:44.218496Z 0 [Note] /Applications/MAMP/Library/bin/mysqld: ready for connections.
+Version: '5.7.25'  socket: '/Applications/MAMP/tmp/mysql/mysql.sock'  port: 8889  MySQL Community Server (GPL)
+2019-07-04T04:16:13.141607Z 2 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T04:16:13.141808Z 2 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T04:16:13.149498Z 3 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T04:16:13.149523Z 3 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.715486Z 8 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.715720Z 8 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.716989Z 8 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.717005Z 8 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.717654Z 8 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.717672Z 8 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.718257Z 8 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.718272Z 8 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.719037Z 8 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.719052Z 8 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.719832Z 8 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:47:15.719847Z 8 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:49:02.986105Z 20 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:49:02.986381Z 20 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:49:02.987453Z 20 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:49:02.987475Z 20 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:49:02.987589Z 20 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:49:02.987602Z 20 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:49:02.987751Z 20 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T07:49:02.987768Z 20 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.788298Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.788573Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.788784Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.788815Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.789304Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.789323Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.789366Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.789377Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.790740Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.790757Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.791301Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.791316Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.791502Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.791518Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.791574Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.791585Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.791617Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.791626Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.792348Z 196 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:20:22.792361Z 196 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.031939Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032349Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032375Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032386Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032622Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032641Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032693Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032706Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032736Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.032747Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.033531Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.033550Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.034571Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.034585Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.034763Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.034775Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.036154Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.036169Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.036329Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.036341Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.036826Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.036838Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.037023Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.037038Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.038078Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.038093Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045286Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045304Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045316Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045322Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045460Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045470Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045508Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045516Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045543Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045551Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045739Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.045751Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.046245Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.046264Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.046489Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.046502Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.047245Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.047260Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.047410Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.047421Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.047821Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.047839Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.047988Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.048004Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.050546Z 256 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T09:21:51.050560Z 256 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.380949Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.381476Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.381907Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.381946Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.382256Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.382286Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.382331Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.382350Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.383356Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.383390Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.383491Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.383511Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.383767Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.383789Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.384752Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.384793Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.384857Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.384872Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.385797Z 324 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T11:26:53.385823Z 324 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-04T22:03:47.642626Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 18946ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-04T22:04:03.808026Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 13144ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-04T22:41:30.070881Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 11810ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-04T22:42:01.503978Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 6696ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-04T23:45:01.178522Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 3731451ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-04T23:45:27.711671Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 15456ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T00:25:36.048913Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 13447ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T00:26:11.127100Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 12074ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T00:27:16.055285Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 14750ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T00:29:06.794480Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 13675ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T00:32:39.125170Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 12307ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T00:33:55.806148Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 13952ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T01:08:21.776888Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 13551ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T01:19:43.710565Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 12144ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T01:59:16.901933Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 14670ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T04:00:07.155890Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 7200154ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T04:00:34.787380Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 16633ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T04:01:25.129889Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 12116ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T04:39:58.090966Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2277084ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T04:40:18.815051Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 9679ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T06:41:43.066418Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 7199947ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T06:42:10.902207Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 16839ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T07:20:41.003779Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2284361ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T07:21:03.950479Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 11870ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T09:21:54.979820Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 7200067ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T09:22:20.638855Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 14661ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T09:23:14.985295Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 13107ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T10:00:43.911898Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2214566ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T10:01:07.403619Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 13439ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T10:31:22.495667Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1764131ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T22:12:51.006895Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 61101ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T22:49:37.656354Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2201944ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T22:50:03.382002Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 14730ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T23:32:19.602836Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2502428ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-05T23:32:44.973713Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 14324ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T01:00:01.574242Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5164511ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T01:00:27.795673Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 15194ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T02:13:20.487862Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 779409ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T02:13:45.970654Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 14388ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T02:30:20.532386Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 966432ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T02:30:46.013638Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 15426ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T03:04:21.527464Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1980512ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T03:04:46.992819Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 15413ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T04:05:32.505640Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 3599091ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T04:05:58.656226Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 16108ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T04:45:06.472462Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 2320375ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T04:45:33.616150Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 17082ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T06:05:20.690011Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 4199358ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2019-07-06T08:37:22.568147Z 877 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.568390Z 877 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.568417Z 877 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.568427Z 877 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.568889Z 877 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.568907Z 877 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.569041Z 877 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.569054Z 877 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.569085Z 877 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.569095Z 877 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.570023Z 877 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:37:22.570039Z 877 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:39:57.200182Z 909 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2019-07-06T08:39:57.200532Z 909 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade

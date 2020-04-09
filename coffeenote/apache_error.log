@@ -1,0 +1,248 @@
+[Sat Mar 23 13:59:38 2019] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 23 13:59:38 2019] [notice] Digest: done
+[Sat Mar 23 13:59:38 2019] [notice] FastCGI: process manager initialized (pid 2118)
+[Sat Mar 23 13:59:38 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun Mar 24 11:44:10 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/phpcheek2
+[Sun Mar 24 17:39:47 2019] [notice] caught SIGTERM, shutting down
+[Sun Mar 24 17:39:53 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 24 17:39:53 2019] [notice] Digest: done
+[Sun Mar 24 17:39:53 2019] [notice] FastCGI: process manager initialized (pid 11759)
+[Sun Mar 24 17:39:53 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Mar 26 08:42:57 2019] [notice] caught SIGTERM, shutting down
+[Tue Mar 26 10:57:36 2019] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 26 10:57:36 2019] [notice] Digest: done
+[Tue Mar 26 10:57:36 2019] [notice] FastCGI: process manager initialized (pid 1665)
+[Tue Mar 26 10:57:36 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Mar 28 09:29:45 2019] [notice] caught SIGTERM, shutting down
+[Thu Mar 28 10:08:04 2019] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 28 10:08:04 2019] [notice] Digest: done
+[Thu Mar 28 10:08:04 2019] [notice] FastCGI: process manager initialized (pid 1048)
+[Thu Mar 28 10:08:04 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Mar 29 18:29:48 2019] [notice] caught SIGTERM, shutting down
+[Fri Mar 29 18:29:54 2019] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 29 18:29:54 2019] [notice] Digest: done
+[Fri Mar 29 18:29:54 2019] [notice] FastCGI: process manager initialized (pid 5581)
+[Fri Mar 29 18:29:54 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Mar 29 18:30:31 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/sample01
+[Fri Mar 29 18:31:28 2019] [notice] caught SIGTERM, shutting down
+[Fri Mar 29 18:31:51 2019] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 29 18:31:51 2019] [notice] Digest: done
+[Fri Mar 29 18:31:51 2019] [notice] FastCGI: process manager initialized (pid 5823)
+[Fri Mar 29 18:31:51 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun Mar 31 06:02:00 2019] [notice] caught SIGTERM, shutting down
+[Sun Mar 31 06:17:25 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 31 06:17:25 2019] [notice] Digest: done
+[Sun Mar 31 06:17:25 2019] [notice] FastCGI: process manager initialized (pid 985)
+[Sun Mar 31 06:17:25 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun Mar 31 06:27:33 2019] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/?language=English
+[Sun Mar 31 08:01:23 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat
+[Sun Mar 31 08:01:26 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat
+[Sun Mar 31 08:01:27 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat
+[Sun Mar 31 08:01:27 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat
+[Sun Mar 31 08:01:27 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat
+[Sun Mar 31 08:01:27 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat
+[Sun Mar 31 08:01:27 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat
+[Sun Mar 31 08:02:02 2019] [notice] caught SIGTERM, shutting down
+[Sun Mar 31 08:02:10 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 31 08:02:10 2019] [notice] Digest: done
+[Sun Mar 31 08:02:10 2019] [notice] FastCGI: process manager initialized (pid 2342)
+[Sun Mar 31 08:02:10 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun Mar 31 08:26:21 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat, referer: http://localhost:8888/sample3/mypage.php
+[Tue Apr 02 06:20:47 2019] [notice] caught SIGTERM, shutting down
+[Tue Apr 02 06:20:59 2019] [notice] Digest: generating secret for digest authentication ...
+[Tue Apr 02 06:20:59 2019] [notice] Digest: done
+[Tue Apr 02 06:20:59 2019] [notice] FastCGI: process manager initialized (pid 13766)
+[Tue Apr 02 06:20:59 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Apr 05 23:08:55 2019] [notice] caught SIGTERM, shutting down
+[Sun Apr 07 16:31:31 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 07 16:31:31 2019] [notice] Digest: done
+[Sun Apr 07 16:31:31 2019] [notice] FastCGI: process manager initialized (pid 8951)
+[Sun Apr 07 16:31:31 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun Apr 07 20:56:49 2019] [error] [client ::1] script '/Applications/MAMP/htdocs/sample3/index.php' not found or unable to stat
+[Tue Apr 23 20:48:03 2019] [notice] caught SIGTERM, shutting down
+[Wed May 01 21:49:31 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed May 01 21:49:31 2019] [notice] Digest: done
+[Wed May 01 21:49:31 2019] [notice] FastCGI: process manager initialized (pid 19937)
+[Wed May 01 21:49:31 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed May 01 23:53:56 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/contact.html
+[Wed May 01 23:53:57 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/contact.html
+[Wed May 01 23:54:04 2019] [notice] caught SIGTERM, shutting down
+[Wed May 01 23:54:10 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed May 01 23:54:10 2019] [notice] Digest: done
+[Wed May 01 23:54:10 2019] [notice] FastCGI: process manager initialized (pid 21912)
+[Wed May 01 23:54:10 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed May 01 23:54:44 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/contact.html
+[Wed May 01 23:54:44 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/contact.html
+[Thu May 02 00:00:20 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/index.html
+[Thu May 02 00:00:47 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/index.html
+[Thu May 02 00:00:48 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/index.html
+[Thu May 02 00:00:53 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/index.html
+[Thu May 02 00:53:06 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/htdocs
+[Thu May 02 01:32:46 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/mypage.php
+[Thu May 02 01:32:51 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/html+js+php/thecoffee/login.html, referer: http://localhost:8888/html+js+php/thecoffee/mypage.php
+[Thu May 02 19:07:15 2019] [notice] caught SIGTERM, shutting down
+[Thu May 02 19:07:21 2019] [notice] Digest: generating secret for digest authentication ...
+[Thu May 02 19:07:21 2019] [notice] Digest: done
+[Thu May 02 19:07:21 2019] [notice] FastCGI: process manager initialized (pid 26969)
+[Thu May 02 19:07:21 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri May 03 22:06:44 2019] [notice] caught SIGTERM, shutting down
+[Fri May 03 22:06:50 2019] [notice] Digest: generating secret for digest authentication ...
+[Fri May 03 22:06:50 2019] [notice] Digest: done
+[Fri May 03 22:06:50 2019] [notice] FastCGI: process manager initialized (pid 32897)
+[Fri May 03 22:06:50 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri May 03 23:08:54 2019] [notice] caught SIGTERM, shutting down
+[Fri May 03 23:09:00 2019] [notice] Digest: generating secret for digest authentication ...
+[Fri May 03 23:09:00 2019] [notice] Digest: done
+[Fri May 03 23:09:00 2019] [notice] FastCGI: process manager initialized (pid 33674)
+[Fri May 03 23:09:00 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun May 12 12:52:12 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:52:31 2019] [notice] caught SIGTERM, shutting down
+[Sun May 12 12:52:39 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun May 12 12:52:39 2019] [notice] Digest: done
+[Sun May 12 12:52:39 2019] [notice] FastCGI: process manager initialized (pid 69703)
+[Sun May 12 12:52:39 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun May 12 12:52:43 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:52:44 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:04 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:05 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:05 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:05 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:05 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:05 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:06 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:06 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:06 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:54:06 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:56:25 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:56:25 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:56:25 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:56:26 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:56:26 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:58:28 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:58:29 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 12:58:29 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 13:01:35 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 13:01:59 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice
+[Sun May 12 13:02:06 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01
+[Sun May 12 14:02:32 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01/signup.html, referer: http://localhost:8888/webservice_practice01/signup.php
+[Sun May 12 14:02:35 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01/signup.html, referer: http://localhost:8888/webservice_practice01/signup.php
+[Sun May 12 14:03:42 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01/signup.html, referer: http://localhost:8888/webservice_practice01/login.html
+[Sun May 12 14:03:55 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01/signup.html, referer: http://localhost:8888/webservice_practice01/login.html
+[Sun May 12 14:03:56 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01/signup.html, referer: http://localhost:8888/webservice_practice01/login.html
+[Sun May 12 14:04:02 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01/signup.html, referer: http://localhost:8888/webservice_practice01/login.html
+[Sun May 12 14:04:31 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01/signup.html, referer: http://localhost:8888/webservice_practice01/index.html
+[Sun May 12 14:05:52 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice01/signup.html, referer: http://localhost:8888/webservice_practice01/login.html
+[Mon May 13 17:57:13 2019] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/index.php?language=English
+[Mon May 13 17:57:42 2019] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/index.php?language=English
+[Tue May 14 17:10:48 2019] [notice] caught SIGTERM, shutting down
+[Tue May 14 17:10:55 2019] [notice] Digest: generating secret for digest authentication ...
+[Tue May 14 17:10:55 2019] [notice] Digest: done
+[Tue May 14 17:10:55 2019] [notice] FastCGI: process manager initialized (pid 79789)
+[Tue May 14 17:10:55 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sat May 18 07:40:13 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice03/mypage.html
+[Sat May 18 07:40:21 2019] [notice] caught SIGTERM, shutting down
+[Sat May 18 07:40:28 2019] [notice] Digest: generating secret for digest authentication ...
+[Sat May 18 07:40:28 2019] [notice] Digest: done
+[Sat May 18 07:40:28 2019] [notice] FastCGI: process manager initialized (pid 97807)
+[Sat May 18 07:40:28 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sat May 18 07:40:34 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice03/mypage.html
+[Sat May 18 07:40:34 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice03/mypage.html
+[Mon May 20 05:38:24 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon May 20 05:38:24 2019] [notice] Digest: done
+[Mon May 20 05:38:24 2019] [notice] FastCGI: process manager initialized (pid 3994)
+[Mon May 20 05:38:24 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon May 20 05:38:27 2019] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/?language=English
+[Mon May 20 05:46:01 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice04/index.html, referer: http://localhost:8888/webservice_practice04/mypage.php
+[Mon May 20 06:58:39 2019] [notice] caught SIGTERM, shutting down
+[Mon May 20 06:58:46 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon May 20 06:58:46 2019] [notice] Digest: done
+[Mon May 20 06:58:46 2019] [notice] FastCGI: process manager initialized (pid 5077)
+[Mon May 20 06:58:46 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu May 23 02:10:39 2019] [notice] caught SIGTERM, shutting down
+[Sun May 26 16:46:39 2019] [notice] Digest: generating secret for digest authentication ...
+[Sun May 26 16:46:39 2019] [notice] Digest: done
+[Sun May 26 16:46:39 2019] [notice] FastCGI: process manager initialized (pid 1373)
+[Sun May 26 16:46:39 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon May 27 11:16:07 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice08/index.html, referer: http://localhost:8888/webservice_practice08/registProduct.php
+[Mon May 27 11:19:34 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice08/index.html, referer: http://localhost:8888/webservice_practice08/registProduct.php
+[Mon May 27 17:38:15 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice08/index.html, referer: http://localhost:8888/webservice_practice08/registProduct.php
+[Mon May 27 17:38:15 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice08/index.html, referer: http://localhost:8888/webservice_practice08/registProduct.php
+[Mon May 27 17:38:21 2019] [notice] caught SIGTERM, shutting down
+[Mon May 27 17:38:28 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon May 27 17:38:28 2019] [notice] Digest: done
+[Mon May 27 17:38:28 2019] [notice] FastCGI: process manager initialized (pid 9741)
+[Mon May 27 17:38:28 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue May 28 11:38:55 2019] [notice] caught SIGTERM, shutting down
+[Wed May 29 09:44:43 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed May 29 09:44:43 2019] [notice] Digest: done
+[Wed May 29 09:44:43 2019] [notice] FastCGI: process manager initialized (pid 1902)
+[Wed May 29 09:44:43 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu May 30 09:36:04 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14
+[Thu May 30 09:36:10 2019] [notice] caught SIGTERM, shutting down
+[Thu May 30 09:36:18 2019] [notice] Digest: generating secret for digest authentication ...
+[Thu May 30 09:36:18 2019] [notice] Digest: done
+[Thu May 30 09:36:18 2019] [notice] FastCGI: process manager initialized (pid 5642)
+[Thu May 30 09:36:18 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu May 30 09:36:23 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14
+[Thu May 30 09:36:24 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14
+[Thu May 30 09:36:37 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:37:35 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:37:38 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:37:39 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:37:48 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:38:26 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:39:08 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:39:52 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:39:53 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:39:56 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:39:57 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:40:46 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:40:47 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 09:42:18 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 17:11:02 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice13/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice13/index.php
+[Thu May 30 18:15:26 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Thu May 30 18:15:28 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Thu May 30 18:15:31 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Thu May 30 18:15:34 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/mypage.php
+[Mon Jun 03 20:45:45 2019] [notice] caught SIGTERM, shutting down
+[Tue Jun 04 21:36:30 2019] [notice] Digest: generating secret for digest authentication ...
+[Tue Jun 04 21:36:30 2019] [notice] Digest: done
+[Tue Jun 04 21:36:30 2019] [notice] FastCGI: process manager initialized (pid 2694)
+[Tue Jun 04 21:36:30 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Jun 04 21:36:38 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/mypage.php
+[Tue Jun 04 21:36:40 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/mypage.php
+[Wed Jun 05 21:41:05 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/mypage.php
+[Thu Jun 06 22:33:15 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/mypage.php
+[Thu Jun 06 22:33:23 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Wed Jun 12 18:23:56 2019] [notice] caught SIGTERM, shutting down
+[Tue Jun 18 23:31:43 2019] [notice] Digest: generating secret for digest authentication ...
+[Tue Jun 18 23:31:43 2019] [notice] Digest: done
+[Tue Jun 18 23:31:43 2019] [notice] FastCGI: process manager initialized (pid 15057)
+[Tue Jun 18 23:31:43 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Jun 18 23:32:02 2019] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Jun 18 23:32:10 2019] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/portfolio/.DS_Store, referer: http://localhost:8888/
+[Sat Jun 22 00:00:33 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Sat Jun 22 00:00:36 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Sat Jun 22 00:00:36 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Sat Jun 22 00:00:37 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Fri Jun 28 09:19:37 2019] [notice] caught SIGTERM, shutting down
+[Wed Jul 03 05:54:31 2019] [notice] Digest: generating secret for digest authentication ...
+[Wed Jul 03 05:54:31 2019] [notice] Digest: done
+[Wed Jul 03 05:54:31 2019] [notice] FastCGI: process manager initialized (pid 8267)
+[Wed Jul 03 05:54:31 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jul 03 06:01:16 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Wed Jul 03 06:35:54 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/mywebservice
+[Thu Jul 04 13:15:38 2019] [notice] caught SIGTERM, shutting down
+[Thu Jul 04 13:15:44 2019] [notice] Digest: generating secret for digest authentication ...
+[Thu Jul 04 13:15:44 2019] [notice] Digest: done
+[Thu Jul 04 13:15:44 2019] [notice] FastCGI: process manager initialized (pid 12781)
+[Thu Jul 04 13:15:44 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.1 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jul 04 13:16:13 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Thu Jul 04 13:16:16 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Thu Jul 04 13:16:41 2019] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/htdogs
+[Thu Jul 04 16:47:06 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/webservice_practice14/uploads/ab8ca18c0051592b433fc52fa3598252c0315d04.jpeg, referer: http://localhost:8888/webservice_practice14/index.php
+[Sat Jul 06 18:28:56 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/portfolio/mywebservice/index.html, referer: http://localhost:8888/portfolio/mywebservice/signup.php
+[Sat Jul 06 18:28:57 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/portfolio/mywebservice/index.html, referer: http://localhost:8888/portfolio/mywebservice/signup.php
+[Sat Jul 06 18:28:57 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/portfolio/mywebservice/index.html, referer: http://localhost:8888/portfolio/mywebservice/signup.php
+[Sat Jul 06 18:28:57 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/portfolio/mywebservice/index.html, referer: http://localhost:8888/portfolio/mywebservice/signup.php
+[Sat Jul 06 18:28:57 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/portfolio/mywebservice/index.html, referer: http://localhost:8888/portfolio/mywebservice/signup.php

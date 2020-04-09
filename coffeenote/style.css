@@ -1,0 +1,815 @@
+/*サイト全体*/
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #444;
+  line-height: 150%;
+}
+
+/*各要素にはデフォルトで余計な余白などが指定されているので、解除しておく*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/*リンク*/
+a {
+  text-decoration: none;
+  color: #b6a489;
+}
+
+footer a {
+  color: aliceblue;
+}
+
+/*フォント*/
+.price {
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.num {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*ヘッダー*/
+header {
+  background: #7b5544;
+  margin-bottom: 30px;
+  padding: 0 15px;
+  width: 100%;
+  height: 80px;
+  display: block;
+}
+
+header h1 {
+  float: left;
+  margin: 0;
+  line-height: 80px;
+}
+header h1 a {
+  color: antiquewhite;
+}
+
+/*ナビゲーション*/
+#top-nav {
+  position: relative;
+  float: right;
+  width: 500px;
+  height: 90px;
+}
+
+nav a {
+  color: aliceblue;
+  padding: 10px 15px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+#top-nav ul {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  width: 450px;
+  height: 80px;
+  list-style: none;
+  line-height: 80px;
+}
+
+#top-nav ul li {
+  float: right;
+}
+
+/*レイアウト*/
+.site-width {
+  margin: 0 auto;
+  width: 980px;
+}
+
+#main {
+  min-height: 600px;
+}
+
+/*
+.page-1colum #main {
+  width: 100%;
+}
+
+*/
+
+/*
+.page-2colum #main{
+  width: 760px;
+}
+*/
+
+/*
+#contents{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+*/
+
+/*サイドバー*/
+#sidebar {
+  float: left;
+  background: #f6f5f4;
+  min-height: 600px;
+  width: 200px;
+  margin-right: 20px;
+  box-sizing: border-box;
+  padding: 15px;
+}
+
+#sidebar .title {
+  text-align: left;
+  font-size: 14px;
+}
+
+#sidebar select {
+  outline: none;
+  padding: 10px;
+  text-indent: 0.01px;
+  /*  text-overflow: '';*/
+  border-radius: 0;
+  width: 100%;
+  height: 40px;
+  border-color: #ccc;
+  font-size: 14px;
+  appearance: button;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+}
+
+/* #sidebar .selectbox {
+  /*  padding-top: 20px;*/
+/* } */
+
+#sidebar .icn_select:after {
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border-top: 10px solid #333;
+  border-right: 7px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 7px solid transparent;
+  /* content: ''; */
+}
+/*
+
+.page-logined #sidebar{
+  margin: 0 0 0 20px;
+}
+*/
+
+.page-logined #sidebar > a {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.page-title {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+.page-profEdit #sidebar {
+  text-decoration: underline;
+}
+
+/*メインコンテンツ*/
+
+.panel-list {
+  overflow: hidden;
+  margin-right: -15px;
+  box-sizing: border-box;
+}
+
+/*
+.panel{
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-o-box-sizing: border-box;
+-ms-box-sizing: border-box;
+box-sizing: border-box;
+  float: left;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  padding-right: 15px;
+  min-height: 185px;
+  width: 25%;
+  color: #333;
+  text-decoration: none;
+  line-height: 1.2em;
+}
+*/
+
+.panel-list > .panel {
+  float: left;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  padding-right: 15px;
+  min-height: 200px;
+  width: 25%;
+  height: 25%;
+  color: #333;
+  text-decoration: none;
+  line-height: 1.2em;
+}
+
+.panel img {
+  width: 100%;
+  height: 130px;
+  box-sizing: border-box;
+}
+
+.panel .panel-title {
+  margin: 0;
+}
+
+a.panel:hover {
+  text-decoration: underline;
+}
+
+#main .title {
+  padding-bottom: 50px;
+  font-size: 28px;
+}
+
+.page-mypage #main .title {
+  padding-bottom: 20px;
+}
+
+.badge {
+  padding: 5px;
+  color: #fff;
+  background: #7acee6;
+  margin-right: 10px;
+  font-size: 18px;
+  vertical-align: middle;
+}
+
+/*float leftを指定したので、親要素で解除しないといけない。定型文*/
+.product-img-container {
+  overflow: hidden;
+}
+
+/*親要素のimgタグにwidth100%を指定し、きっちり横幅に収まるようにする*/
+.product-img-container img {
+  width: 100%;
+}
+
+.product-img-container .img-main {
+  width: 700px;
+  float: left;
+  padding: 15px;
+}
+
+.product-img-container .img-main img {
+  height: 500px;
+}
+
+.product-img-container .img-sub {
+  width: 230px;
+  float: left;
+  background: #f6f5f4;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.product-img-container .img-sub img {
+  margin-bottom: 15px;
+  height: 130px;
+}
+.product-img-container .img-sub img:last-child {
+  margin-bottom: 0;
+}
+
+/*商品詳細のコメント欄はユーザーが任意で入力し、文量もまちまちなので予めある程度の高さをもたせておく。min-heightで指定できる*/
+.product-detail {
+  background: #f6f5f4;
+  padding: 15px;
+  margin-bottom: 15px;
+  min-height: 150px;
+}
+
+/*ページネーション*/
+.pagination {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.pagination-list {
+  position: relative;
+  left: 50%;
+  float: left;
+  padding-left: 0;
+  list-style: none;
+}
+
+.pagination .list-item {
+  float: left;
+  position: relative;
+  left: -50%;
+  margin-right: 5px;
+}
+
+.pagination .list-itemactive {
+  float: left;
+  position: relative;
+  left: -50%;
+  margin-right: 5px;
+}
+
+.pagination .list-item a {
+  text-decoration: none;
+  background: #eee;
+  padding: 5px 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #111;
+}
+
+.pagination .list-item.active a {
+  background: #333;
+  color: aliceblue;
+}
+
+.pagination .list-item a:hover {
+  background: #333;
+  color: aliceblue;
+}
+
+/*検索*/
+.search-item {
+  overflow: hidden;
+  background: #f6f5f4;
+  padding: 5px 10px;
+  height: 40px;
+  margin-bottom: 30px;
+  line-height: 40px;
+}
+
+.search-left {
+  float: left;
+}
+
+.search-right {
+  float: right;
+}
+
+.search-item .total-num {
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 5px;
+  font-size: 18px;
+}
+
+/*リスト*/
+/*
+.list > .list-table{
+  margin-bottom: 40px;
+}
+*/
+
+.table {
+  margin-bottom: 40px;
+}
+
+.page-mypage .table {
+  border-spacing: 0 5px;
+}
+.page-mypage .table tbody tr {
+  background: #f6f5f4;
+  font-size: 18px;
+}
+.list-table {
+  text-align: left;
+  box-sizing: border-box;
+}
+.list-table td {
+  padding: 5px;
+}
+
+/*フッター*/
+#footer {
+  padding: 15px;
+  width: 100%;
+  min-width: 1000px;
+  text-align: center;
+  line-height: 150%;
+  background: #7b5544;
+  color: aliceblue;
+  font-size: 12px;
+  margin-top: auto;
+  bottom: 0;
+}
+
+/*プロダクトバイ*/
+.product-buy {
+  margin-bottom: 50px;
+  overflow: hidden;
+  height: 50px;
+  line-height: 50px;
+}
+
+.product-buy .item {
+  float: left;
+}
+
+.product-buy .item-left a {
+  color: #b6a489;
+}
+
+.product-buy .item-left a:hover {
+  text-decoration: underline;
+}
+
+.product-buy .item-center {
+  float: right;
+  margin-right: 15px;
+  line-height: -100%;
+}
+
+.product-buy .item-center p {
+  font-weight: 700;
+}
+
+.product-buy .item-right {
+  float: right;
+}
+
+.product-buy .price {
+  font-size: 32px;
+}
+
+/*ボタン*/
+.btn {
+  padding: 10px 20px;
+  text-decoration: none;
+  width: 100px;
+  border: none;
+  font-size: 16px;
+}
+
+.btn:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.btn.btn-primary {
+  background: #b6a489;
+  color: white;
+}
+
+.btn.btn-mid {
+  width: 150px;
+  margin-top: 50px;
+}
+
+.btn-container {
+  margin-bottom: 20px;
+}
+
+/*フォーム*/
+.form {
+  margin: 0 auto;
+  padding: 40px;
+  width: 400px;
+  border: 5px solid #f1f1f1;
+  text-align: center;
+}
+.form-product .label-require {
+  margin-left: 5px;
+  background: #fe8a8b;
+  font-size: 14px;
+  padding: 3px 5px;
+  color: white;
+  vertical-align: bottom;
+}
+
+.page-1colum .form-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.form-group {
+  width: 150px;
+  /*
+  overflow: hidden;
+  position: relative;
+*/
+}
+
+/*
+.form-group > input{
+  float: left;
+}
+
+.form-group >.option{
+  float: left;
+  position: relative;
+  display: block;
+}
+*/
+
+.page-profEdit .form-container {
+  margin-bottom: 100px;
+}
+
+.form-product {
+  margin: 0 auto;
+  padding: 40px;
+  width: 400px;
+  border: 5px solid #f1f1f1;
+  text-align: left;
+}
+
+.form-product .area-drop {
+  width: 100%;
+  height: 250px;
+  background: #f6f5f4;
+  margin-bottom: 15px;
+  text-align: center;
+  line-height: 250px;
+  color: #bbb;
+  position: relative;
+  box-sizing: border-box;
+}
+.form-product .input-file {
+  opacity: 0;
+  width: 100%;
+  height: 250px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2; /*必ずz-indexをつけないと登録画像を変更する際にドラッグ＆ドロップができなくなる*/
+}
+.prev-img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.form-product .imgDrop-container {
+  width: 100%;
+  float: left;
+  padding-right: 15px;
+  box-sizing: border-box;
+}
+
+.area-msg {
+  padding: 0 0 15px 0;
+  color: red;
+}
+
+.send-msg {
+  padding: 0 0 15px 0;
+}
+
+.back-container a {
+  color: #b6a489;
+}
+
+.back-container a:hover {
+  text-decoration: underline;
+}
+
+.login-form {
+  text-align: left;
+}
+
+label {
+  display: block;
+}
+
+.page-signup label.err input {
+  background: #f7dcd9;
+}
+.page-profEdit label.err input {
+  background: #f7dcd9;
+}
+.page-regist label.err input {
+  background: #f7dcd9;
+}
+
+input[type='text'],
+input[type='password'],
+.category,
+input[type='number'] {
+  width: 100%;
+  height: 60px;
+  margin-bottom: 15px;
+  padding: 10px;
+  font-size: 18px;
+  background: #f6f5f5;
+  border: none;
+  box-sizing: border-box;
+}
+
+input[type='checkbox'] {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  background: #f6f5f5;
+}
+
+input[type='number'] {
+  width: 100px;
+  text-align: left;
+  display: block;
+}
+
+input[type='submit'] {
+  width: 100%;
+  height: 50px;
+  background: #6b3f31;
+  color: #fff;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 10px;
+  font-size: 18px;
+  background: #f6f5f5;
+  border: none;
+  box-sizing: border-box;
+}
+
+.counter-text {
+  text-align: right;
+}
+
+/*連絡掲示板*/
+.msg-info {
+  background: #f6f5f4;
+  overflow: hidden;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.msg-info .avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+}
+
+.msg-info .avatar-img {
+  float: left;
+  margin-top: 10px;
+}
+
+.msg-info .avatar-info {
+  float: left;
+  padding-left: 15px;
+  width: 500px;
+}
+
+.msg-info .product-info {
+  overflow: hidden;
+  padding-left: 15px;
+}
+
+.msg-info .product-info .left {
+  float: left;
+}
+
+.msg-info .product-info .right {
+  float: left;
+  padding-left: 15px;
+}
+
+.area-bord {
+  background: #f6f5f4;
+  padding: 15px;
+  overflow-y: scroll;
+  height: 500px;
+}
+
+.area-bord .msg-cnt {
+  width: 80%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.area-bord .msg-cnt .avatar {
+  width: 5%;
+  overflow: hidden;
+  float: left;
+}
+
+.area-bord .msg-cnt .avatar img {
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  float: left;
+}
+
+.area-bord .msg-cnt .msg-inrTxt {
+  width: 85%;
+  float: left;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 0 0 25px;
+  position: relative;
+}
+
+.area-bord .msg-cnt.msg-left .msg-inrTxt {
+  background: #f6e2df;
+}
+
+.area-bord .msg-cnt.msg-left .msg-inrTxt > .triangle {
+  position: absolute;
+  left: -20px;
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-right: 15px solid #f6e2df;
+  border-left: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
+
+.area-bord .msg-cnt.msg-right {
+  float: right;
+}
+
+.area-bord .msg-cnt.msg-right .msg-inrTxt {
+  background: #d2eaf0;
+  margin: 0 25px 0 0;
+}
+
+.area-bord .msg-cnt.msg-right .msg-inrTxt > .triangle {
+  position: absolute;
+  right: -20px;
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-left: 15px solid #d2eaf0;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
+
+.area-bord .msg-cnt.msg-right .msg-inrTxt {
+  float: right;
+}
+
+.area-bord .msg-cnt.msg-right .avatar {
+  float: right;
+}
+
+.area-send {
+  background: #f6f5f4;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+.area-send textarea {
+  background: #fff;
+  padding: 15px;
+  width: 100%;
+  height: 100px;
+}
+
+/*
+================================
+ その他
+================================*/
+.page-mypage .msg-slide {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 40px;
+  background: rgba(122, 206, 230, 0.6);
+  text-align: center;
+  font-size: 16px;
+  line-height: 40px;
+}
+.page-signup .msg-slide {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 40px;
+  background: rgba(122, 206, 230, 0.6);
+  text-align: center;
+  font-size: 16px;
+  line-height: 40px;
+}
